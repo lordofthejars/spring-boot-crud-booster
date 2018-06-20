@@ -25,7 +25,7 @@
 
   <groupId>io.openshift.booster</groupId>
   <artifactId>spring-boot-rest-http-crud</artifactId>
-  <version>1.5.13-2-redhat-SNAPSHOT</version>
+  <version>1.5.14-1-redhat-SNAPSHOT</version>
 
   <name>Spring Boot - CRUD Booster</name>
   <description>Spring Boot - CRUD Booster</description>
